@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898123623832",
+    "project_id": "task-manage-fb25",
+    "storage_bucket": "task-manage-fb25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898123623832:android:e1ed6490738787e86c8fed",
+        "android_client_info": {
+          "package_name": "com.example.task_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoM6wZgcP7xx4WIRz5qezDUbrep7pkvHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
